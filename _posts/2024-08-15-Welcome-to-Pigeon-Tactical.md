@@ -4,6 +4,8 @@ date: 2024-08-15
 categories: [Pigeon Tactical]
 tags: [pigeon, tactical]
 description: A brief introduction to Pigeon Tactical and what to expect from us.
+pin: true
+comments: true
 ---
 
 # Welcome to Pigeon Tactical!
