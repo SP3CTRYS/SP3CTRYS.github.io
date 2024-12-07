@@ -1,0 +1,15 @@
+---
+title: title
+date: 2024-10-15
+categories: [example]
+tags: [one, two]
+description: description
+pin: true
+comments: true
+---
+
+Add Image --- ![My helpful screenshot](/assets/screenshot.jpg)
+Add Download --- [get the PDF](/assets/mydoc.pdf)
+
+Categories: Security, Hunting, Shooting, Training
+Tags: theory, practical
